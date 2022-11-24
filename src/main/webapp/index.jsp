@@ -1,117 +1,39 @@
 <!DOCTYPE html>
-
 <html>
-
-<head>
-	<title>
-		Simple web Development Template
-	</title>
-</head>
-
 <body>
-	<nav class="navbar background">
-		<ul class="nav-list">
-			<div class="logo">
-				<img src="logo.png">
-			</div>
-			<li><a href="#web">Web Technology</a></li>
-			<li><a href="#program">C Programming</a></li>
-			<li><a href="#course">Courses</a></li>
-		</ul>
 
-		<div class="rightNav">
-			<input type="text" name="search" id="search">
-			<button class="btn btn-sm">Search</button>
-		</div>
-	</nav>
+<h1>My First Heading</h1>
 
-	<section class="firstsection">
-		<div class="box-main">
-			<div class="firstHalf">
-				<h1 class="text-big" id="web">
-					Web Technology
-				</h1>
-				
-				<p class="text-small">
-					SIDDHARTHA stands for HyperText Markup
-					Language. It is used to design
-					web pages using a markup language.
-					HTML is the combination of Hypertext
-					and Markup language. Hypertext
-					defines the link between the web
-					pages. A markup language is used
-					to define the text document within
-					tag which defines the structure of
-					web pages. HTML is a markup language
-					that is used by the browser to
-					manipulate text, images, and other
-					content to display it in the required
-					format.
-				</p>
+<p>Tree Essay- Trees are our best friends because they clean the air we breathe. Likewise, they also clean the water and soil and ultimately make the earth a better place. It is also a fact that people who live near trees are healthier, fit, and happier than people who do not.
+
+Moreover, it is our responsibility to look after our friends who serve us in many ways. Most importantly by saving plants, we are not doing any favor to plants but to ourselves only. Because trees and plants life does not depend on us but our lives depend on them.
+
+Tree Essay
+Importance of Trees
+Trees are important to us in a lot of ways and we cannot ignore their importance. They are important because they give us fresh air to breathe, food to eat and shelter/shade from sunlight and rainfall. Besides this, there are many medicines in the market that are made up of trees extracts. Apart from this, there are plants and trees that have medicinal value.
+
+They bring peacefulness; create a pleasing and relaxing environment. Also, they help in reflecting the harmful rays of the sun and maintaining a balanced temperature. Besides, they also help in water conservation and preventing soil erosion. They also manage the ecosystem and from ancient times several varieties of plants are worshipped.
+
+Get the huge list of more than 500 Essay Topics and Ideas
+
+Benefits of Trees
+Trees provide us many benefits some of which we can’t see but they make a huge difference. They help in fighting back the climate changes by absorbing greenhouse gases which are the main cause of climate change.
+
+Moreover, they replenish groundwater and filter the air from harmful pollutants and odors. Besides, they are a great source of food and the king of fruits ‘Mango’ also grow on trees.
 
 
-			</div>
-		</div>
-	</section>
 
-	<section class="secondsection">
-		<div class="box-main">
-			<div class="secondHalf">
-				<h1 class="text-big" id="program">
-					C Programming
-				</h1>
-				<p class="text-small">
-					C is a procedural programming language.
-					It was initially developed by Dennis
-					Ritchie as a system programming
-					language to write operating system.
-					The main features of C language include
-					low-level access to memory, simple set
-					of keywords, and clean style, these
-					features make C language suitable for
-					system programming like operating system
-					or compiler development.
-				</p>
+Moreover, they are the cause of rainfall as they attract clouds towards the surface and make them rain. They can be teachers, playmates and a great example of unity in diversity.
 
+Above all, they are a good source of reducing air, water, and noise pollution.
 
-			</div>
-		</div>
-	</section>
+Value of Trees
+When a seed of a plant or tree grow it makes the area around it greener. Also, it supports many life forms. Birds make their nests, many reptiles and animals live on it or near it.
 
-	<section class="section">
-		<div class="paras">
-			<h1 class="sectionTag text-big">Java</h1>
+Besides, all these many beautiful flowers, food growing on it. Moreover, many parts of trees such as roots, leaves, stem, flower, seeds, are also edible. Most importantly they never ask anything in return for their services and the gifts they give. Trees also keep the balance in the ecosystem and ecology.
 
-			<p class="sectionSubTag text-small">
-				Java has been one of the most
-				popular programming language
-				for many years. Java is Object
-				Oriented. However it is not
-				considered as pure object oriented
-				as it provides support for primitive
-				data types (like int, char, etc) The
-				Java codes are first compiled into byte
-				code (machine independent code). Then
-				the byte code is run on Java Virtual
-				Machine (JVM) regardless of the
-				underlying architecture.
-			</p>
+To conclude, we can say that trees are very important and beneficial for every life form on earth. Without them, the survival of life on earth will become difficult and after some time every species starts to die because of lack of oxygen on the planet. So, to save our lives and to survive we have to learn the importance of trees and also have to teach our children the importance of trees.</p>
 
-
-		</div>
-
-		<div class="thumbnail">
-			<img src="img.png" alt="laptop image">
-		</div>
-	</section>
-
-	<footer class="background">
-		<p class="text-footer">
-			Copyright ©-All rights are reserved
-		</p>
-
-
-	</footer>
 </body>
-
 </html>
+
