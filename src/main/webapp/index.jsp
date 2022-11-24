@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>My Second Heading</h1>
 
 <p>Tree Essay- Trees are our best friends because they clean the air we breathe. Likewise, they also clean the water and soil and ultimately make the earth a better place. It is also a fact that people who live near trees are healthier, fit, and happier than people who do not.
 
