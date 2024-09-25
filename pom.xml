@@ -15,6 +15,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <sonar.properties>
+         <sonar.host.url>http://3.86.160.184:9000/</sonar.host.url>
+         <sonar.login>8eb66765f05ce628fd93dbfabe01cd304c429da3</sonar.login>
+  </sonar.properties>
   <build>
     <finalName>01-Maven-Web-App</finalName>
   </build>
